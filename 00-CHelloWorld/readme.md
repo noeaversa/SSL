@@ -1,4 +1,4 @@
-##TP-0: Noelia Aversa
+## TP-0: Noelia Aversa
 
 Compilador seleccionado: MinGW
 
